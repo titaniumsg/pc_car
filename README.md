@@ -4,6 +4,8 @@ Here, we provide documentation and code for the *de novo* prediction of cross-re
 
 For a detailed description of the implementation, please refer to our manuscript: Sun, Florio, & Gupta *et al*., Structural principles of peptide-centric Chimeric Antigen Receptor recognition guide therapeutic expansion. *bioRxiv* doi.org/XXX
 
+![Alt text](denovo.png?raw=true "Image")
+
 ### System requirements:
 - MacOS/Linux (tested on MacOS 12.6.3)
 - Rosetta (tested on 2020.08)
