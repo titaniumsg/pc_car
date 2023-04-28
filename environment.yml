@@ -1,0 +1,10 @@
+name: pc_car
+ 
+channels:
+  - defaults
+  - schrodinger
+dependencies:
+    - python=3.8
+    - platformdirs
+    - pymol
+    - tqdm  
