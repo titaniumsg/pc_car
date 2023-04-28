@@ -1,6 +1,0 @@
-
-*.DS_Store
-static/.DS_Store
-misc/.DS_Store
-__pycache__/
-*.pyc
