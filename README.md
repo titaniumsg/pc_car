@@ -2,7 +2,7 @@
  
 Here, we provide documentation and code for the *de novo* prediction of cross-reactive peptides using the 10LH:PHOX2B/HLA-A*24:02 complex as an example. 
 
-For a detailed description of the implementation, please refer to our manuscript: Sun, Florio, & Gupta *et al*., Structural principles of peptide-centric Chimeric Antigen Receptor recognition guide therapeutic expansion. *bioRxiv* doi.org/XXX
+For a detailed description of the implementation, please refer to our manuscript: Sun, Florio, & Gupta *et al*., Structural principles of peptide-centric Chimeric Antigen Receptor recognition guide therapeutic expansion. *bioRxiv* [doi.org/10.1101/2023.05.24.542108](https://doi.org/10.1101/2023.05.24.542108)
 
 ![Alt text](denovo.png?raw=true "Image")
 
